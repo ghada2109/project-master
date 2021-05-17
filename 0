@@ -1,0 +1,31 @@
+<table>
+    <caption>absences </caption>
+    
+    <tr>
+        <th scope="row">programation java</th>
+      
+    </tr>
+    <tr>
+        <th scope="row">programmation c++</th>
+       
+    
+    </tr>
+    <tr>
+        <th scope="row">Bases de données</th>
+      
+    </tr>
+    <tr>
+        <th scope="row">Entrepot des données</th>
+       
+      
+    </tr>
+    <tr>
+        <th scope="row">Réseaux</th>
+       
+    </tr>
+    <tr>
+        <th scope="row">Multimédia</th>
+        
+       
+    </tr>
+</table>
