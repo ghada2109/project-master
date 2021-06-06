@@ -13,7 +13,12 @@ table {
     letter-spacing: 1px;
     font-family: sans-serif;
     table-layout: auto;
-width: -200%;
+    width: -200%;
+    border: medium solid #061f4e;
+    border-collapse: collapse;
+    width: 5%;
+    position: relative;
+    top: 120px; left:500px;
 }
 
 td,
@@ -22,12 +27,8 @@ th {
     padding: 7px 5px;
     font-size: 1.5rem;
     color: #031330
+    background-color rgb(235, 235, 235);
 }
-
-th {
-    background-color: rgb(235, 235, 235);
-}
-
 td {
     text-align: center;
 }
@@ -50,16 +51,6 @@ tr:nth-child(odd) td {
     letter-spacing: 3px;
     text-shadow: 1px 1px 0 #fff, 0 0 9px #000;
 }
-table {
-    border: medium solid #061f4e;
-    border-collapse: collapse;
-    width: 5%;
-    position: relative;
-    top: 120px; left:500px;
-
-   
-}
-  
     th {
     font-family: monospace;
     border: thin solid #021842;
